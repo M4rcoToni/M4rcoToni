@@ -23,4 +23,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcoToni&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
- ![Snake animation](https://github.com/M4rcoToni)
+ ![Snake animation](https://github.com/rafaballerini/M4rcoToni/blob/output/github-contribution-grid-snake.svg)
