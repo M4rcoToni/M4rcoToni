@@ -5,6 +5,16 @@
   <br></br>
   <span>Estudando tudo sobre o ecossistema de desenvolvimento móvil e entusiasta do EXPO.</span>
 </div>
+<div  align="center" style="display: inline_block"><br>
+   <span> I’m learning </span>
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/
+  <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>...
+</div>
+
 <div align="center">
     <h2>Desenvolvimento Nativo com Java</h2>
     <img align="center" height="600" width="600" src="https://github.com/M4rcoToni/M4rcoToni/blob/main/gifs/celss.gif?raw=true"/>  
@@ -17,19 +27,6 @@
     <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcoToni&layout=compact&langs_count=7&theme=aura"/>
   </a>
 </div>
-  
-##
-<div  align="center" style="display: inline_block"><br>
-   <span> I’m learning </span>
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/
-  <img align="center"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>...
-</div>
-
-
 ##
 
  ![Snake animation](https://github.com/M4rcoToni/M4rcoToni/blob/output/github-contribution-grid-snake.svg)
