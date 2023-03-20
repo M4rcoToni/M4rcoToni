@@ -27,6 +27,6 @@
     <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcoToni&layout=compact&langs_count=7&theme=aura"/>
   </a>
 </div>
-##
+
 
  ![Snake animation](https://github.com/M4rcoToni/M4rcoToni/blob/output/github-contribution-grid-snake.svg)
