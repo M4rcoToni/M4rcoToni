@@ -3,7 +3,7 @@
   
   <span>🚀 Never stop to learning</span>
   <br></br>
-  <spanStudying everything about the mobile development ecosystem and being an enthusiast of EXPO. </span>
+  <span>Studying everything about the mobile development ecosystem and being an enthusiast of EXPO. </span>
 </div>
 <div  align="center" style="display: inline_block"><br>
    <span>  </span>
