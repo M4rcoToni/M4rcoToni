@@ -15,10 +15,6 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>...
 </div>
 
-<div align="center">
-    <h2>Native development with Java.</h2>
-    <img align="center" height="600" width="600" src="https://github.com/M4rcoToni/M4rcoToni/blob/main/gifs/celss.gif?raw=true"/>  
-</div>
 
 <div align="center">
   <a href="https://github.com/M4rcoToni">    
