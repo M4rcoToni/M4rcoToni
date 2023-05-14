@@ -26,7 +26,3 @@
 
  ![Snake animation](https://github.com/M4rcoToni/M4rcoToni/blob/output/github-contribution-grid-snake.svg)
  
- <div align="center">
-   <h2>Visits</h2>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{m4rcotoni}/count.svg" /></p> 
-</div>
