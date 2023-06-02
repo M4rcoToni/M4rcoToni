@@ -19,8 +19,7 @@
 <div align="center">
   <a href="https://github.com/M4rcoToni">    
   <h2>GitHub Stats 🙀</h2>
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=M4rcoToni&show_icons=true&theme=aura&include_all_commits=false&count_private=true"/>
-    <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcoToni&layout=compact&langs_count=7&theme=aura"/>
+    <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcoToni&layout=compact&langs_count=7&theme=aura"/>
   </a>
 </div>
 
