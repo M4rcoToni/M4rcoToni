@@ -1,27 +1,13 @@
-<div align="center" >
-  <h2>Hi Strange</h2>
-  
-  <span>🚀 Never stop to learning</span>
-  <br></br>
-  <span>Studying everything about the mobile development ecosystem and being an enthusiast of EXPO. </span>
-</div>
-<div  align="center" style="display: inline_block"><br>
-   <span>  </span>
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>...
-</div>
+# Marco Antonio Pereira
 
+Software Engineer @Yazo.
 
-<div align="center">
-  <a href="https://github.com/M4rcoToni">    
-  <h2>GitHub Stats 🙀</h2>
-    <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcoToni&layout=compact&langs_count=7&theme=aura"/>
-  </a>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m4rcotoni/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.pereiradoespiritosanto@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m4rcotoni/) 
 
- ![Snake animation](https://github.com/M4rcoToni/M4rcoToni/blob/output/github-contribution-grid-snake.svg)
- 
+Studying everything about the mobile development ecosystem.
+
+Turning ideas into tangible applications is my goal. My journey revolves around React Native development, where creativity and logic come together to create high-quality products.
+
+"It is not the strongest that survives, nor the most intelligent, but the one most responsive to change." - Charles Darwin
